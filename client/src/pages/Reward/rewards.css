@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.rewardwrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rewardTitle{
+font-size: 50px;
+}
+.rewardText{
+    font-size: 20px;
+}
+.reward{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

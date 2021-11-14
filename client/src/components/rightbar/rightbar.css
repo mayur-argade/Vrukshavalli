@@ -1,0 +1,26 @@
+.rightbar{
+    flex: 3;
+    overflow-y: scroll;
+ position: sticky;
+}
+.followbutton{
+    background-color: #04cfc9;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    size: 50px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.rightbarimg{
+    width: 100%;
+    padding-bottom: 3%;
+}
+.rightbarwrapper{
+margin-top: 50px;
+position: sticky;
+}

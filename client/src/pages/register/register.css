@@ -1,0 +1,39 @@
+.login {
+    width: 100vw;
+    height: 100vh;
+    background-color: #f0f2f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .loginWrapper {
+    width: 70%;
+    height: 70%;
+    display: flex;
+  }
+  .mainscreen{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .loginBox{
+      height: 400px;
+      padding: 20px;
+      background-color: white;
+      border-radius: 10px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+  }
+.loginForgot{
+      text-align: center;
+      color: #1775ee;
+}
+.registerimage{
+  width: 100%;
+}
+/* .loginButton,
+.loginRegisterButton{
+  padding: 3%;
+} */
